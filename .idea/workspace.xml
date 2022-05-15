@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="feb367ac-62eb-4082-bdd0-a572757e3e7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gioiThieu-vongLap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DrawingMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoNguyenTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TinhTienLaiChoVay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UocSoChungLonNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HienThi20SoNguyenTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HienThiSoNgtoNhoHon100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VeHinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +37,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/CodeGym/Hoc-lieu-Java/DemoCode/Modul-2/gioiThieu-vongLap"
+    "last_opened_file_path": "C:/CodeGym/Hoc-lieu-Java/DemoCode/Modul-2/gioiThieu-vongLap",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DrawingMenu">
+  <component name="RunManager" selected="Application.HienThiSoNgtoNhoHon100">
     <configuration name="DrawingMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DrawingMenu" />
       <module name="gioiThieu-vongLap" />
@@ -55,15 +49,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoNguyenTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SoNguyenTo" />
+    <configuration name="HienThi20SoNguyenTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HienThi20SoNguyenTo" />
       <module name="gioiThieu-vongLap" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TinhTienLaiChoVay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TinhTienLaiChoVay" />
+    <configuration name="HienThiSoNgtoNhoHon100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HienThiSoNgtoNhoHon100" />
       <module name="gioiThieu-vongLap" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,12 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VeHinh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VeHinh" />
+      <module name="gioiThieu-vongLap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HienThiSoNgtoNhoHon100" />
+        <item itemvalue="Application.HienThi20SoNguyenTo" />
+        <item itemvalue="Application.VeHinh" />
         <item itemvalue="Application.DrawingMenu" />
         <item itemvalue="Application.UocSoChungLonNhat" />
-        <item itemvalue="Application.TinhTienLaiChoVay" />
-        <item itemvalue="Application.SoNguyenTo" />
       </list>
     </recent_temporary>
   </component>
@@ -95,7 +97,8 @@
       <updated>1652173123207</updated>
       <workItem from="1652173125722" duration="6528000" />
       <workItem from="1652237698492" duration="72000" />
-      <workItem from="1652238922470" duration="472000" />
+      <workItem from="1652238922470" duration="1227000" />
+      <workItem from="1652587305355" duration="8557000" />
     </task>
     <servers />
   </component>
